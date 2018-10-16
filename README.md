@@ -1,6 +1,6 @@
 
 
-Bienvenue sur le jeu du Morpion jeune moussaillons, 
+Bienvenue sur le jeu du Morpion jeune moussaillon THP, 
 
 Le déroulement et les règles du jeu sont simple : 
 - Le programme commence en demandant le prénom de deux joueurs
